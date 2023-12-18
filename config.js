@@ -17,13 +17,13 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["263780699988","13658000980"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.OwnerNumber = ["263780699988","13658000980"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
-global.ownertag = ["263780699988"];
-global.OwnerName = "ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";
-global.BotName = "BayMax Bot";
-global.packname = "BayMax Bot";                             //Do not change.
-global.author = "By: ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×";                               //Do not change.
+global.Owner = ["0704592320","0717442167"];         //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.OwnerNumber = ["0704592320","0717442167"];   //If you want singal number so global.Owner = ['263780699988'] Change into your number.
+global.ownertag = ["0704592320"];
+global.OwnerName = "Wizard";
+global.BotName = "DavydutyThe Wizard Bot";
+global.packname = "Davyduty Bot";                             //Do not change.
+global.author = "By: Davyduty The Wizard";                               //Do not change.
 global.BotSourceCode = "https://github.com/mrjuice01/BayMax-MD"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"; 
 
