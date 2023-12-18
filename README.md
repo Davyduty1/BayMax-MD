@@ -1,13 +1,13 @@
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/100421286/191436376-2a5e6281-d24e-4c9b-b99b-673bbc72b445.jpeg" alt="animated" width="540" height="280" />
+   <img src="[https://user-images.githubusercontent.com/100421286/191436376-2a5e6281-d24e-4c9b-b99b-673bbc72b445.jpeg](https://t4.ftcdn.net/jpg/05/51/6/17/240_F_551621792_lfN8ITBCI90zoAgFMUqFSXUG74mkgXvh.jpg)" alt="animated" width="540" height="280" />
      
 
       
 </p>
-<h1 align="center"> BayMax BoT (Beta)
+<h1 align="center"> Davyduty BoT (Beta)
 </h1>
 <p align="center"> 
-  Hola, I am "BayMax" a WhatsApp bot created by Mr Juice to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hola, I am "Davyduty Wizard" a WhatsApp bot created by Davyduty to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
    <p align="center"> 
   <a href="https://mrjuice01/BayMax-MD/stargazers">
